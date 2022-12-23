@@ -1,4 +1,3 @@
-import "./App.css";
 import SemdMail from "./components/SemdMail";
 
 const App = () => {
